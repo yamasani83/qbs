@@ -29,7 +29,7 @@ date: June 26, 2023
 
 ## John Snow
 
-![John Snow](https://upload.wikimedia.org/wikipedia/commons/2/27/Snow-cholera-map-1.jpg)<!-- .element height="50%" width="50%" -->
+![John Snow](https://upload.wikimedia.org/wikipedia/commons/2/27/Snow-cholera-map-1.jpg){width = 250px}
 <!--(C:\Users\F0040RP\Documents\Website\images\Snow-cholera.jpg)-->
 
 ---
