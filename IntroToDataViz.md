@@ -23,6 +23,35 @@ date: June 26, 2023
 * some examples are [here](https://python-graph-gallery.com/)
 ---
 
+## What is your goal?
+
++ Exploration? (early)
++ Analysis (middle)
++ Presentation? (late)
+
+---
+
+## Audience
+
++ General public? 
++ Other researchers?
++ Classmates / teacher?
++ Yourself?
+
+---
+
+## Data Visualization Definition
+
+
+---
+
+# Visualization Examples
+
+Observe:
+1. What different visual variables do they use? Such visual variables may include: location on x axis, location on y, color, shape, line-thickness, transparency, font, font size, etc.
+
+---
+
 # Pre-Digital Visualization Innovators
 
 ---
@@ -50,6 +79,10 @@ date: June 26, 2023
 ---
 
 ## W.E.B. DuBois
+
+[DuBois](https://www.nybooks.com/wp-content/uploads/2021/07/gordon-reed_1-081921.jpg)
+
+See the article Mansky, [W.E.B. Du Bois' Visionary Infographics Come Together for the First Time](https://www.smithsonianmag.com/history/first-time-together-and-color-book-displays-web-du-bois-visionary-infographics-180970826/)
 
 
 
